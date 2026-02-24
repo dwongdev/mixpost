@@ -2,7 +2,7 @@
 
 * * *
 
-[<img src="./art/logo.svg" alt="Logo Mixpost" />](https://mixpost.app)
+[<img src="./art/cover.png" alt="Logo Mixpost" />](https://mixpost.app)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/inovector/mixpost.svg?style=flat-square)](https://packagist.org/packages/inovector/mixpost)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/inovector/mixpost/run-tests?label=tests)](https://github.com/inovector/mixpost/actions?query=workflow%3Arun-tests+branch%3Amain)
@@ -54,7 +54,7 @@ Join our community:
 - [Discord](https://mixpost.app/discord)
 - [Facebook Private Group](https://www.facebook.com/groups/getmixpost)
 
-[<img src="./art/cover.png?v=3" />](https://mixpost.app)
+[<img src="./art/demo.png" />](https://mixpost.app)
 
 ## Installation
 
